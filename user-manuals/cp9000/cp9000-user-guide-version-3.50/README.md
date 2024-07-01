@@ -1,7 +1,7 @@
 # CP9000 User Guide Version 3.50
 
 * Overview
-  * [Product Overview](overview.md)
+  * [Product Overview](overview/)
     * Purpose
     * Main Features
     * Standalone Redundancy
